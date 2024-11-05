@@ -3,6 +3,8 @@
 </div>
   
 <div align="center" style="display: inline_block"><br>
+  <h3 style="font-weight: normal">Desenvolvedor e analista de sistemas com ênfase em programação back-end, integração com banco de dados e desenvolvimento web.<h3>
+  <h3 style="font-weight: normal">Experiência em Java, Spring Boot e Oracle PL/SQL.<h3>
   <img align="justify" alt="Gui-C" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg">
   <img align="justify" alt="Gui-Java" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="justify" alt="Gui-Spring" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original.svg">
