@@ -1,7 +1,7 @@
   <div align="center" style="display: inline_block"><br>
   <h1>hello everyone! i'm guilherme</h1>
-  <h3 style="font-weight: normal">systems dev and analyst focused on back-end programming, database integration and web development<h3>
-  <h3 style="font-weight: normal">studying systems architecture ;)<h3>
+  <h3 style="font-weight: normal">systems dev and analyst focused on back-end programming,<h3>
+  <h3 style="font-weight: normal">database integration and web development // studying systems architecture ;)<h3>
   <img align="justify" alt="Gui-Java" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="justify" alt="Gui-Spring" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original.svg">
   <img align="justify" alt="Gui-C" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg">
