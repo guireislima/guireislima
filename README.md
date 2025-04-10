@@ -26,9 +26,9 @@
   <a href="https://www.instagram.com/guilhermesier_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-<div align="center">
-  <br>
-  <a href="https://github.com/guireislima">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guireislima&layout=compact&langs_count=7&theme=cobalt"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guireislima&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-</div>
+<br>
+
+<p align="center">
+  <a href=""><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guireislima&layout=compact&langs_count=10&theme=cobalt"/></a>&nbsp
+  <a href=""><img height="150em" src="https://github-readme-stats.vercel.app/api?username=guireislima&count_private=true&show_icons=true&theme=cobalt"/></a>
+</p>
