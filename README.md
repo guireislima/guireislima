@@ -29,6 +29,6 @@
 <br>
 
 <p align="center">
-  <a href=""><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guireislima&layout=compact&langs_count=10&theme=cobal"/></a>&nbsp
-  <a href=""><img height="150em" src="https://github-readme-stats.vercel.app/api?username=guireislima&count_private=true&show_icons=true&theme=cobal"/></a>
+  <a href=""><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guireislima&layout=compact&langs_count=10&theme=cobalt"/></a>&nbsp
+  <a href=""><img height="150em" src="https://github-readme-stats.vercel.app/api?username=guireislima&count_private=true&show_icons=true&theme=cobalt"/></a>
 </p>
